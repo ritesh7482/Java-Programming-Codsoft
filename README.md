@@ -124,5 +124,5 @@ I’m thankful to **CodSoft** for this valuable learning opportunity and look fo
 ## 📬 Connect With Me
 
 * 💼 **LinkedIn:** [[Your LinkedIn Profile Link]](https://www.linkedin.com/in/riteshkumar74/)
-* 🧑‍💻 **GitHub:** [Your GitHub Profile Link]
+* 🧑‍💻 **GitHub:** [[Your GitHub Profile Link]](https://github.com/ritesh7482)
 * 📧 **Email:** riteshkumar23649@gmail.com
